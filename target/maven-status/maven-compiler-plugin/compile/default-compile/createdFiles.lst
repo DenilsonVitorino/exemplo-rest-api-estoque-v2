@@ -1,0 +1,8 @@
+com\mycompany\estoque\DAO\ProductDAO.class
+com\mycompany\estoque\DAO\DAOFactory.class
+org\netbeans\rest\application\config\ApplicationConfig.class
+com\mycompany\estoque\model\Product.class
+com\mycompany\estoque\exception\DbException.class
+com\mycompany\estoque\service\ProductServiceImpl.class
+com\mycompany\estoque\controller\ProductController.class
+com\mycompany\estoque\db\DbConfig.class
